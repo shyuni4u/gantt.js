@@ -1,5 +1,6 @@
-# gantt.js
+# Gantt.js
 Gantt chart used vanillajs
+![sample](/sample.png)
 
 <hr/>
 
