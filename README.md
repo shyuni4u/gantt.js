@@ -1,7 +1,10 @@
 # Gantt.js
 Gantt chart used vanillajs
-### sample.html
-![sample](/sample.png)
+### simple.html
+![simple](/sample.png)
+
+### example.html
+![example](/example.png)
 
 <hr/>
 
